@@ -1,4 +1,3 @@
 auto: true
 server: true
 exclude: [jekyll-gravatar-filter]
-plugins: [./jekyll-gravatar-filter]
