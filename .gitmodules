@@ -1,6 +1,3 @@
-[submodule "jekyll-gravatar-filter"]
-	path = jekyll-gravatar-filter
-	url = git://github.com/ldesgrange/jekyll-gravatar-filter.git
 [submodule "jekyll-append-git-id"]
 	path = jekyll-append-git-id
 	url = git://github.com/mj/jekyll-append-git-id.git
