@@ -1,4 +1,2 @@
-auto: true
-server: true
 exclude: [jekyll-gravatar-filter, jekyll-append-git-id]
 plugins: [./jekyll-gravatar-filter, ./jekyll-append-git-id]
