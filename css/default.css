@@ -8,6 +8,12 @@ body {
     font-family: "Open Sans", sans-serif;
 }
 
+@media screen and (max-width: 320px) {
+    body {
+        width: 320px;
+    }
+}
+
 h1 {
     font-size: 250%;
     
